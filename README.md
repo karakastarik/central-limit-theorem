@@ -1,2 +1,1 @@
-# central-limit-theorem
-A simple python example about central limit theorem
+# Understanding The Central Limit Theorem
